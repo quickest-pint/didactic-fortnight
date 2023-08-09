@@ -1,1 +1,1 @@
-# didactic-fortnight
+# Didactic fortnight
